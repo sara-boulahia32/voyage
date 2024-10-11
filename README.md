@@ -1,14 +1,19 @@
 Travigo-travel Brief 1
+
 Contexte du projet
+
 Trivago-Travel souhaite évoluer son site web, actuellement conçu comme une page unique, en un site multi-pages. L'objectif est d'offrir une expérience utilisateur enrichie, permettant aux visiteurs d'accéder à des informations détaillées.
 
 Accéder au site
+
 Visiter le site Travigo
 
 Objectifs du projet
+
 L'objectif principal est de transformer le site web de Travigo en un environnement multi-pages. Le site, qui se présente actuellement comme une seule page, sera réorganisé pour répondre aux besoins croissants des utilisateurs.
 
 Pages à développer :
+
 Accueil : Vue d'ensemble de l'entreprise et des services offerts.
 Tours : Description détaillée des tours disponibles chez Travigo.
 À Propos : Historique de l'entreprise, mission et présentation de l'équipe.
