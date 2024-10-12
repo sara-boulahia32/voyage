@@ -5,7 +5,7 @@ Contexte du projet
 Trivago-Travel souhaite évoluer son site web, actuellement conçu comme une page unique, en un site multi-pages. L'objectif est d'offrir une expérience utilisateur enrichie, permettant aux visiteurs d'accéder à des informations détaillées.
 
 Accéder au site
-
+https://sara-boulahia32.github.io/voyage/index.html
 Visiter le site Travigo
 
 Objectifs du projet
