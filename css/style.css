@@ -197,11 +197,12 @@ header.sticky{
 	transition:
     width 2s,
     height 2s,
-    translate  2s;
+    rotate  2s;
 }
 .container-img-b:hover{
 	width: 200px;
-  height: 200px;
+  	height: 200px;
+	rotate: 360deg;
 }
 .container-img-b img{
 	width: 100%;
